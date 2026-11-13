@@ -84,11 +84,6 @@ Tools: MySQL 9.7 and MySQL Workbench.
 - **Causes not tested.** Seller location and distance were not analysed.
 - **Hypothetical dashboard.** The requirements are a practice exercise; there is no real client.
 
-## Not done
-
-- Charts (planned as optional, skipped for time).
-- Analysis by seller or by distance.
-
 ## Credits
 
 Data: Olist, via Kaggle (licence above). Analysis by the repository author.
